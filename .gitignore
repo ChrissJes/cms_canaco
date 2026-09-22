@@ -1,0 +1,21 @@
+# Entornos virtuales
+canaco_env/
+canaco_env12/
+env/
+venv/
+
+# Base de datos
+*.sqlite3
+db.sqlite3
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración local
+.env
+
+# Archivos estáticos compilados
+staticfiles/
+media/G
